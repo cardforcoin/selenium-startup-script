@@ -1,0 +1,3 @@
+*.jar
+/chromedriver
+/chromedriver_linux*
