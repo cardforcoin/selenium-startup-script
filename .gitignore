@@ -1,3 +1,5 @@
 *.jar
 /chromedriver
 /chromedriver_linux*
+/phantomjs
+/phantomjs-*
