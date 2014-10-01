@@ -9,5 +9,7 @@
             "maxInstances": 4
         }
     ],
-    "configuration": {}
+    "configuration": {
+        "nodeTimeout": 1200
+    }
 }
