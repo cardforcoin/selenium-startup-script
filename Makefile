@@ -44,4 +44,4 @@ phantomjs: phantomjs-1.9.7-linux-x86_64/bin/phantomjs
 
 
 
-.PHONY: run-chrome chromedriver server.jar
+.PHONY: run-chrome chromedriver phantomjs server.jar
