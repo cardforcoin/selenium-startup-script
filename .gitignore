@@ -1,4 +1,5 @@
 *.jar
+*.log
 /chromedriver
 /chromedriver_linux*
 /phantomjs
