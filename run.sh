@@ -7,6 +7,7 @@ java -jar server.jar \
 
 sleep 1
 
+PATH="$PWD:$PATH" \
 java -jar server.jar \
      -role node \
      -nodeConfig nodeConfig.json
